@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Hudson;Rex;;;
+FN:Rex Hudson
+ORG:Red Fox Realty
+TITLE:REALTOR
+TEL;TYPE=CELL:+18104588121
+TEL;TYPE=WORK:+18102093860
+EMAIL;TYPE=WORK:rex@redfoxrealty.com
+URL:https://www.redfoxrealty.com/team/rex-hudson
+URL:https://www.instagram.com/__rexhudson85/
+ADR;TYPE=WORK:;;8048 Miller Road Suite G;Swartz Creek;MI;48473;USA
+NOTE:Michigan REALTOR | License 6501437590
+END:VCARD
